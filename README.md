@@ -1,3 +1,11 @@
+## **THIS PROJECT AND REPOSITORY ARE NO-LONGER MAINTAINED**
+
+Since August 2019 I've modified this project to use `Microsoft.Extensions.DependencyInjection` instead of Unity (so that I can eventually transition my ASP.NET projects to ASP.NET Core) and I've reposted the project to https://github.com/Jehoel/AspNetDependencyInjection where all active development is.
+
+I've since added significantly more functionality to the `AspNetDependencyInjection` project (such as support for SignalR, MVC and WebAPI (and a WCF sample)) so I don't recommend anyone uses this project anymore. If you are using Unity then you should still use `AspNetDependencyInjection` because you can adapt Unity for use with `Microsoft.Extensions.DependencyInjection` (see https://github.com/unitycontainer/microsoft-dependency-injection ).
+
+What follows is this project's README (which is now obsolete)
+
 
 # Unity.WebForms
 
